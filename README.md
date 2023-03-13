@@ -1,12 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I´m Jota Freitas Jr 🖥️ Always working and studying a lot 🚀</div>  
   
 
-- ⚡ Fun fact: My real name isn't easy to pronunciate  
+- ⚡ Fun fact: My real name isn't easy to pronounce  
   
 
 <br/>  
