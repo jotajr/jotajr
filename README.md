@@ -1,8 +1,4 @@
 ### <div align="center">I´m Jota Freitas Jr 🖥️ Always working and studying a lot 🚀</div>  
-  
-
-- ⚡ Fun fact: My real name isn't easy to pronounce  
-  
 
 <br/>  
 
